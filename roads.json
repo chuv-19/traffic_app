@@ -1,0 +1,128 @@
+[
+  {
+    "x": 245.0,
+    "y": 245.0,
+    "rotation": 0,
+    "obj_type": "Rcrossroads"
+  },
+  {
+    "x": 245.0,
+    "y": 210.0,
+    "rotation": 0,
+    "obj_type": "Rcrossroads"
+  },
+  {
+    "x": 280.0,
+    "y": 210.0,
+    "rotation": 0,
+    "obj_type": "Rcrossroads"
+  },
+  {
+    "x": 245.0,
+    "y": 140.0,
+    "rotation": 0,
+    "obj_type": "Rcrossroads"
+  },
+  {
+    "x": 630.0,
+    "y": 140.0,
+    "rotation": 0,
+    "obj_type": "Rcrossroads"
+  },
+  {
+    "x": 595.0,
+    "y": 140.0,
+    "rotation": 0,
+    "obj_type": "Rcrossroads"
+  },
+  {
+    "x": 490.0,
+    "y": 140.0,
+    "rotation": 90,
+    "obj_type": "Rvertical"
+  },
+  {
+    "x": 245.0,
+    "y": 105.0,
+    "rotation": 0,
+    "obj_type": "Rcrossroads"
+  },
+  {
+    "x": 280.0,
+    "y": 70.0,
+    "rotation": 0,
+    "obj_type": "Rvertical"
+  },
+  {
+    "x": 280.0,
+    "y": 280.0,
+    "rotation": 0,
+    "obj_type": "Rvertical"
+  },
+  {
+    "x": 280.0,
+    "y": 315.0,
+    "rotation": 0,
+    "obj_type": "Rvertical"
+  },
+  {
+    "x": 280.0,
+    "y": 350.0,
+    "rotation": 0,
+    "obj_type": "Rcrossroads"
+  },
+  {
+    "x": 280.0,
+    "y": 385.0,
+    "rotation": 0,
+    "obj_type": "Rcrossroads"
+  },
+  {
+    "x": 420.0,
+    "y": 385.0,
+    "rotation": 90,
+    "obj_type": "Rvertical"
+  },
+  {
+    "x": 630.0,
+    "y": 245.0,
+    "rotation": 0,
+    "obj_type": "Rvertical"
+  },
+  {
+    "x": 315.0,
+    "y": 245.0,
+    "rotation": 90,
+    "obj_type": "Rvertical"
+  },
+  {
+    "x": 350.0,
+    "y": 595.0,
+    "rotation": 180,
+    "obj_type": "Rvertical"
+  },
+  {
+    "x": 490.0,
+    "y": 455.0,
+    "rotation": 0,
+    "obj_type": "Rcrossroads"
+  },
+  {
+    "x": 630.0,
+    "y": 315.0,
+    "rotation": 0,
+    "obj_type": "Rvertical"
+  },
+  {
+    "x": 770.0,
+    "y": 140.0,
+    "rotation": 0,
+    "obj_type": "Rvertical"
+  },
+  {
+    "x": 350.0,
+    "y": 245.0,
+    "rotation": 90,
+    "obj_type": "Rvertical"
+  }
+]
