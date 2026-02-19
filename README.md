@@ -36,7 +36,7 @@
 В левом верхнем углу программы представлен логотип в виде иконки светофора с зелёным сигналом, а также название «Редактор интеллектуальной интегрированной системы дорожного движения».
 
 ### 3.4. Скриншот интерфейса 
-<img width="1226" height="654" alt="image" src="https://github.com/user-attachments/assets/907f91f1-e1e6-484b-b1b8-47dfde8ea960" />
+<img width="1136" height="1020" alt="image" src="https://github.com/user-attachments/assets/562b94d8-eafc-4972-97a3-65fe5c9e83e0" />
 
 ---
 
